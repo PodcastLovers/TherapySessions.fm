@@ -1,0 +1,13 @@
+# Linux
+*~
+*.swp
+.directory
+
+# Windows
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# OSX
+.DS_Store*
+._*
